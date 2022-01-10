@@ -75,7 +75,8 @@ print(value)
 
 ## Output:
 ![output1](OP1.JPG)
-![output1](OP2.JPG)
+![output2](OP2.JPG)
+
 
 
 ## Result:

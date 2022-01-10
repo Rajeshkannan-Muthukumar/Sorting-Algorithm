@@ -74,8 +74,9 @@ print(value)
 ```
 
 ## Output:
-![output1](OP1.JPG)
-![output2](OP2.JPG)
+![OP1](https://user-images.githubusercontent.com/93901857/148742446-66d70cfa-3953-4446-9600-e4960c623ff5.jpg)
+![OP2](https://user-images.githubusercontent.com/93901857/148742448-1338c875-ac11-42eb-8721-80ca23fa63d7.jpg)
+
 
 
 
